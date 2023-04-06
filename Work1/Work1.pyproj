@@ -2,16 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>5e163c1e-ec03-4aec-bd7b-019c033a8ed5</ProjectGuid>
-    <ProjectHome>
-    </ProjectHome>
+    <ProjectGuid>677735e7-9620-482c-913e-fb633b21d24f</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
     <StartupFile>Work1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>Work1</Name>
-    <RootNamespace>Work7</RootNamespace>
+    <RootNamespace>Work1</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
